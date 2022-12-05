@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670243459 source:c:\users\franco\documents\recuprogra2do\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
